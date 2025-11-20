@@ -1,6 +1,6 @@
 # Terraform-aws-ec2
 
-This Module createds EC2 instance.
+This Module creates EC2 instance.
 
 ### Inputs
 
